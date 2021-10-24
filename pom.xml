@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>flipkart</groupId>
-  <artifactId>cart</artifactId>
-  <version>v1</version>
+  <artifactId>FlipkartSale</artifactId>
+  <version></version>
   <packaging>war</packaging>
 
   <name>Maven Portlet Archetype</name>
