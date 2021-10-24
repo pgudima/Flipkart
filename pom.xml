@@ -6,7 +6,7 @@
 
   <groupId>flipkart</groupId>
   <artifactId>FlipkartSale</artifactId>
-  <version></version>
+  <version>1</version>
   <packaging>war</packaging>
 
   <name>Maven Portlet Archetype</name>
